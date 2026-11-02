@@ -23,8 +23,8 @@ export const AI_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-fl
 
 // 4) 앱 이름 (화면 위쪽과 시험지에 나옵니다)
 //    예) 아이 이름이 지민이면  APP_NAME = "지또싫",  APP_SUBTITLE = "지민이는 또 틀리기 싫어요"
-export const APP_NAME = "또싫";
-export const APP_SUBTITLE = "또 틀리기 싫어요";
+export const APP_NAME = "태또싫";
+export const APP_SUBTITLE = "태우는 또 틀리기 싫어요";
 
 // 과목 목록 (원하는 대로 바꿔도 됩니다)
 export const SUBJECTS = ["국어", "수학", "영어", "사회", "과학", "역사", "도덕", "기타"];
