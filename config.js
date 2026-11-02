@@ -5,17 +5,17 @@
 
 // 1) 파이어베이스 콘솔 > 프로젝트 설정 > 내 앱(웹) 에서 복사한 값
 export const FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyDEvGmbKgRTiI82P8VKs1o91XF6RejpeCU",
+  authDomain: "munjeaok.firebaseapp.com",
+  projectId: "munjeaok",
+  storageBucket: "munjeaok.firebasestorage.app",
+  messagingSenderId: "669537819005",
+  appId: "1:669537819005:web:ee3daff33823845ba95414"
 };
 
 // 2) App Check(reCAPTCHA Enterprise) 사이트 키
 //    AI 기능을 켜면 App Check 가 자동으로 켜지므로 꼭 넣어야 AI가 동작합니다.
-export const RECAPTCHA_SITE_KEY = "";
+export const RECAPTCHA_SITE_KEY = "6LfS1AsuAAAAANR9jnagmuBN_G6nxaZ7gGVELtyQ";
 
 // 3) 사용할 AI 모델 이름 (앞에서부터 차례로 시도)
 //    콘솔 AI Logic 화면에서 쓸 수 있는 모델 이름을 확인해 맨 앞에 두면 됩니다.
